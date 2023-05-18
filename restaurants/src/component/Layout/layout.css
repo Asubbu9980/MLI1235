@@ -1,0 +1,46 @@
+.hero-section {
+    height: 60vh;
+    background-image: url('https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png');
+    background-size: cover;
+  }
+  
+  .navbar {
+    background-color: transparent !important;
+    padding: 1rem;
+  }
+  
+  .navbar-brand {
+    color: white;
+    font-weight: bold;
+    font-size: xx-large; 
+  }
+  
+  .navbar-brand:hover {
+    color: white;
+    opacity: 0.9;
+  }
+  
+  .nav-link {
+    color: white;
+    margin-right: 10px;
+  }
+ 
+  .nav-link:hover {
+    color: white;
+    opacity: 0.9;
+  }
+  
+
+.active {
+    background-color: rgb(187, 16, 16) !important;
+    color:#fff !important;
+    font-weight: bold;
+   
+}
+
+.nav{
+   text-decoration: none;
+   color: black;
+   padding: 10px;
+   font-size: 15px;
+}

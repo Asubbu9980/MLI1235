@@ -1,0 +1,35 @@
+
+/* .imageCard {
+    margin-top: 150px;
+} */
+
+.titleName {
+    font-weight: bold;
+}
+
+.search{
+   height: 50px;
+  width: 500px;
+}
+
+.image{
+height: 210px;
+width: 100%;
+transition: transform 0.3s;
+}
+
+.image:hover{
+    transform: scale(1.1); 
+}
+
+.address {
+    font-size: 12px;
+}
+
+.detailsBtn {
+    width: 100%;
+ background-color: #ef8064 !important;
+ color: white !important;
+ margin-bottom: 10px;
+}
+

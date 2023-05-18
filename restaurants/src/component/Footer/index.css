@@ -1,0 +1,25 @@
+
+.footer{
+    padding: 50px;
+    display: flex;
+    justify-content: space-around; 
+    bottom: 0;
+    border-top: 1px solid;
+}
+.footerLink{
+    font-size: larger;
+    color:#FF7C5A;
+
+}
+
+.footerLink ~ a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+.footerLink ~ p{
+    font-size: 13px;
+    color: black; 
+}
+
+

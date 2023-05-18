@@ -1,0 +1,26 @@
+
+.detailscard{
+    margin-top: 100px;
+}
+
+.description{
+   font-size: 14px;
+}
+
+.rating {
+    display: flex;
+    justify-content: center;
+    padding: 3px;
+    border-radius: 2px;
+    font-size: small;
+    background-color: #8CBB0F;
+}
+
+.commentName{
+    margin-left: 10px;
+    font-weight: bold;
+}
+.commentName div{
+    font-size: small;
+    font-weight: lighter;
+}
